@@ -1,0 +1,7 @@
+C:\Users\fundedtraderSA\Documents\Visual Studio 2022\4. data types\4. data types\bin\Debug\_4.data_types.exe.config
+C:\Users\fundedtraderSA\Documents\Visual Studio 2022\4. data types\4. data types\bin\Debug\_4.data_types.exe
+C:\Users\fundedtraderSA\Documents\Visual Studio 2022\4. data types\4. data types\bin\Debug\_4.data_types.pdb
+C:\Users\fundedtraderSA\Documents\Visual Studio 2022\4. data types\4. data types\obj\Debug\4. data types.csproj.AssemblyReference.cache
+C:\Users\fundedtraderSA\Documents\Visual Studio 2022\4. data types\4. data types\obj\Debug\4. data types.csproj.CoreCompileInputs.cache
+C:\Users\fundedtraderSA\Documents\Visual Studio 2022\4. data types\4. data types\obj\Debug\_4.data_types.exe
+C:\Users\fundedtraderSA\Documents\Visual Studio 2022\4. data types\4. data types\obj\Debug\_4.data_types.pdb
